@@ -1,5 +1,7 @@
 # feishu-ack-patch-skill（飞书 ACK 表情补丁 Skill）
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 这是一个用于 **OpenClaw** 的 skill：当你在飞书里给机器人发消息后，在机器人正式回复前，先给你的那条消息加一个 **表情回应（reaction）** 作为“处理中/正在处理”的 ACK（处理指示）。
 
 适用于以下场景：
