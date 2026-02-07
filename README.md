@@ -1,5 +1,7 @@
 # feishu-ack-patch-skill
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 An OpenClaw skill that patches the built-in Feishu channel to show a **processing indicator** using **message reactions** (ACK reaction on inbound messages).
 
 This is a pragmatic local patch meant for deployments where OpenClaw upgrades overwrite local edits under:
